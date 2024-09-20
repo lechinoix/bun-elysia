@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1726835651594,
+      "tag": "0000_charming_zuras",
+      "breakpoints": true
+    }
+  ]
+}

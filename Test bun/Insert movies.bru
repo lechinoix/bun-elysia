@@ -1,0 +1,18 @@
+meta {
+  name: Insert movies
+  type: http
+  seq: 2
+}
+
+post {
+  url: http://localhost:3000/movies
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "title": "Titanic",
+    "releaseYear": 1999
+  }
+}
