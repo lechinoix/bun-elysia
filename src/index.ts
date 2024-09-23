@@ -1,5 +1,5 @@
 import { db } from "./db";
-import { sql, eq } from "drizzle-orm";
+import { eq } from "drizzle-orm";
 import { movies } from "./schema";
 
 import { Elysia, t } from "elysia";
